@@ -1,0 +1,9 @@
+name: for_test
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+  - numpy
+prefix: C:\Users\yatin\.conda\envs\for_test
+
