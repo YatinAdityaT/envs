@@ -1,0 +1,6 @@
+name: test1
+channels:
+  - defaults
+  - conda-forge
+prefix: C:\Users\yatin\.conda\envs\test1
+
