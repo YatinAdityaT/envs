@@ -1,0 +1,13 @@
+name: sunspots
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - anaconda
+  - astropy
+  - opencv
+  - drms
+  - gdal
+  - jupyter
+prefix: C:\Users\yatin\.conda\envs\sunspots
+
