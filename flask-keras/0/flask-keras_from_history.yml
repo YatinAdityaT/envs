@@ -1,0 +1,10 @@
+name: flask-keras
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - flask
+  - tensorflow
+  - keras
+prefix: C:\Users\yatin\.conda\envs\flask-keras
+
