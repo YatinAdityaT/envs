@@ -1,0 +1,14 @@
+name: tom
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - tensorflow=2.0.0
+  - keras
+  - opencv
+  - pillow
+  - flask
+  - pylint
+  - autopep8
+prefix: C:\Users\yatin\.conda\envs\tom
+
