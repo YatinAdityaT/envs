@@ -1,0 +1,8 @@
+name: tf_server
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=2
+prefix: C:\Users\yatin\.conda\envs\tf_server
+
