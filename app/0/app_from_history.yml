@@ -1,0 +1,10 @@
+name: app
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - anaconda
+  - kivy
+  - pywinauto
+prefix: C:\Users\yatin\.conda\envs\app
+
