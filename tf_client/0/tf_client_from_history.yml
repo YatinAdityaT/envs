@@ -1,0 +1,6 @@
+name: tf_client
+channels:
+  - defaults
+  - conda-forge
+prefix: C:\Users\yatin\.conda\envs\tf_client
+
