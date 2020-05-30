@@ -1,0 +1,37 @@
+name: ytapi
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ca-certificates=2020.1.1=0
+  - certifi=2020.4.5.1=py38_0
+  - openssl=1.1.1g=he774522_0
+  - pip=20.0.2=py38_3
+  - python=3.8.3=he1778fa_0
+  - setuptools=46.4.0=py38_0
+  - sqlite=3.31.1=h2a8f88b_1
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.16.27012=hf0eaf9b_2
+  - wheel=0.34.2=py38_0
+  - wincertstore=0.2=py38_0
+  - zlib=1.2.11=h62dcd97_4
+  - pip:
+    - cachetools==4.1.0
+    - chardet==3.0.4
+    - google-api-core==1.17.0
+    - google-api-python-client==1.8.4
+    - google-auth==1.16.0
+    - google-auth-httplib2==0.0.3
+    - googleapis-common-protos==1.51.0
+    - httplib2==0.18.1
+    - idna==2.9
+    - protobuf==3.12.2
+    - pyasn1==0.4.8
+    - pyasn1-modules==0.2.8
+    - pytz==2020.1
+    - requests==2.23.0
+    - rsa==4.0
+    - uritemplate==3.0.1
+    - urllib3==1.25.9
+prefix: C:\Users\yatin\.conda\envs\ytapi
+
