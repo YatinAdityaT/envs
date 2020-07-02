@@ -1,0 +1,9 @@
+name: backup2github
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - tk
+  - gitpython
+prefix: C:\Users\yatin\.conda\envs\backup2github
+
