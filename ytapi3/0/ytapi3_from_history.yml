@@ -1,0 +1,11 @@
+name: ytapi3
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - google-api-python-client
+  - google-auth
+  - google-auth-oauthlib
+  - jupyter
+prefix: C:\Users\yatin\.conda\envs\ytapi3
+
