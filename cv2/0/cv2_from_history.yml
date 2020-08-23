@@ -1,0 +1,8 @@
+name: cv2
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - opencv
+prefix: C:\Users\yatin\.conda\envs\cv2
+
